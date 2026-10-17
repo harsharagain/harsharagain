@@ -34,7 +34,9 @@
 - 🛠️ Building practical projects while strengthening my programming fundamentals.
 - 🤖 Working toward a deeper understanding of AI/ML and data science.
 
----
+<p align="center">
+  <img src="./assets/piano2.gif" width="90%" alt="Animated divider" />
+</p>
 
 **🛠️ Tech Stack & Skills**
 
@@ -60,7 +62,9 @@
 
 `Data Structures & Algorithms` · `Competitive Programming` · `AI/ML Fundamentals`
 
----
+<p align="center">
+  <img src="./assets/bunny.gif" width="80%" alt="Animated divider" />
+</p>
 
 **🧠 Problem Solving**
 
@@ -84,7 +88,9 @@ Improving my problem-solving skills through DSA practice, contest participation,
   <img width="55%" src="https://streak-stats.demolab.com?user=harsharagain&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
 </p>
 
----
+<p align="center">
+  <img src="./assets/trees.gif" width="80%" alt="Animated divider" />
+</p>
 
 <p align="center">
   <i>Learn. Build. Solve. Repeat.</i>
