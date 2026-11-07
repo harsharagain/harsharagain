@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Banner" />
-</p>
+
 
 <div align="center">
 
@@ -81,19 +79,10 @@ Improving my problem-solving skills through DSA practice, contest participation,
 
 
 <p align="center">
-  <img width="42%" src="https://github-stats-extended.vercel.app/api?username=harsharagain&show_icons=true&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub statistics" />
+  <img width="55%" src="https://streak-stats.demolab.com?user=harsharagain&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
   <img width="42%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=harsharagain&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img width="55%" src="https://streak-stats.demolab.com?user=harsharagain&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
-</p>
-
-
-<p align="center">
   <img src="./assets/trees.gif" width="80%" alt="Animated divider" />
-</p>
-
-<p align="center">
-  <i>Learn. Build. Solve. Repeat.</i>
 </p>
