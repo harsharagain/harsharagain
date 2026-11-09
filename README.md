@@ -82,3 +82,7 @@ Improving my problem-solving skills through DSA practice, contest participation,
 <p align="center">
   <img src="./assets/pokemon.gif" width="30%" alt="Animated divider" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harsharagain&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
