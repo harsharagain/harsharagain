@@ -76,7 +76,7 @@ Improving my problem-solving skills through DSA practice, contest participation,
 
 <p align="center">
   <img width="48%" src="https://streak-stats.demolab.com?user=harsharagain&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
-  <img width="38%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=harsharagain&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages" />
+  <img width="38%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=harsharagain&layout=compact&hide_border=true&hide=Jupyter%20Notebook&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages" />
 </p>
 
 <p align="center">
